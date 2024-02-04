@@ -1,0 +1,10 @@
+Lista de componentes para la realización del amplificador:
+
+1 Resistencia 1 Mohms = 1000 Kohms
+1 Resistencia 4K7 ohms = 4700 ohms
+3 Diodos ( valen todos, coger los más baratos )
+1 Condensador 10 uF
+1 Transistor BC548
+1 Transistor BC327
+1 Altavoz 8 Ohms de 1W a 10W
+

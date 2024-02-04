@@ -1,0 +1,13 @@
+Circuito hecho por electroARDUINO.
+Suscribiros a mi canal para mas proyectos:
+https://www.youtube.com/user/electroARDUINO
+-------------------------------------------------------------------
+MATERIALES:
+
+- Arduino UNO u otro modelo
+- 5 leds
+- 5 resistencias 220 omhios (para los leds)
+- 1 resistencia 1kohm (para ldr)
+- 1 potenciómetro 10 komhs
+- cables
+- protoboard
